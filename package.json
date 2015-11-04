@@ -1,0 +1,27 @@
+{
+  "name": "startpress-gulp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShopnilTech/StartPress-Gulp.git"
+  },
+  "keywords": [
+    "wordpress",
+    "gulp",
+    "_s"
+  ],
+  "author": "ShopnilTech",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShopnilTech/StartPress-Gulp/issues"
+  },
+  "homepage": "https://github.com/ShopnilTech/StartPress-Gulp#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  }
+}
